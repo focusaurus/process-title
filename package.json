@@ -1,0 +1,21 @@
+{
+  "name": "process-title",
+  "version": "0.0.0",
+  "description": "set process.title based on package name",
+  "main": "processTitle.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/focusaurus/process-title.git"
+  },
+  "keywords": [
+    "process",
+    "title",
+    "unix",
+    "ps"
+  ],
+  "author": "Peter Lyons <pete@peterlyons.com> (http://peterlyons.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/focusaurus/process-title/issues"
+  }
+}
